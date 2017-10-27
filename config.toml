@@ -16,8 +16,8 @@ publishDir = "www"
 
 [Params]
     intro = true
-    headline = "TheHorizons"
-    description = "Expend the horizon to view more, to think more without limitation"
+    headline = "The Horizons"
+    description = "Expend the horizons to view more, to think more without limitation"
     github = "https://github.com/XXX"
     gitlab = "https://gitlab.com/XXX"
     linkedin = "https://linkedin.com/in/XXX/"
