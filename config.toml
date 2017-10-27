@@ -1,14 +1,14 @@
 baseurl = "https://thehorizons.github.io/"
-title = "HORIZONTAL"
+title = "TheHorizons"
 theme = "ghostwriter"
 languageCode = "en-us"
-copyright = "Horizontal"
+copyright = "TheHorizons"
 #disqusShortname = "XXX"
 googleAnalytics = "XXX"
 publishDir = "www"
 
 [Author]
-    name = "Horizontal"
+    name = "TheHorizons"
     profile = "https://google.com/+XXX"
 
 [Taxonomies]
@@ -16,7 +16,7 @@ publishDir = "www"
 
 [Params]
     intro = true
-    headline = "HORIZONTAL"
+    headline = "TheHorizons"
     description = "Expend the horizon to view more, to think more without limitation"
     github = "https://github.com/XXX"
     gitlab = "https://gitlab.com/XXX"
