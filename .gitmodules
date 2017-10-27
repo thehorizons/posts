@@ -10,3 +10,9 @@
 [submodule "www"]
 	path = www
 	url = https://github.com/thehorizons/thehorizons.github.io.git
+[submodule "themes\\minimal"]
+	path = themes\\minimal
+	url = https://github.com/calintat/minimal.git
+[submodule "themes\\ghostwriter"]
+	path = themes\\ghostwriter
+	url = https://github.com/jbub/ghostwriter
