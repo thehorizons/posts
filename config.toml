@@ -1,6 +1,6 @@
 baseurl = "https://thehorizons.github.io/"
 title = "The Horizons"
-theme = "ghostwriter"
+theme = "thehorizons-ghostwriter"
 languageCode = "en-us"
 copyright = "The Horizons"
 #disqusShortname = "XXX"

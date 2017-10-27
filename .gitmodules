@@ -7,3 +7,6 @@
 [submodule "themes\\ghostwriter"]
 	path = themes\\ghostwriter
 	url = https://github.com/jbub/ghostwriter
+[submodule "themes/thehorizons-ghostwriter"]
+	path = themes/thehorizons-ghostwriter
+	url = https://github.com/thehorizons/ghostwriter.git
