@@ -9,4 +9,4 @@
 	url = https://github.com/halogenica/beautifulhugo.git
 [submodule "www"]
 	path = www
-	url = https://github.com/zyfa/zyfa.github.io.git
+	url = https://github.com/thehorizons/thehorizons.github.io.git
