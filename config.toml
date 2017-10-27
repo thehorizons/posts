@@ -1,14 +1,14 @@
 baseurl = "https://thehorizons.github.io/"
-title = "TheHorizons"
+title = "The Horizons"
 theme = "ghostwriter"
 languageCode = "en-us"
-copyright = "TheHorizons"
+copyright = "The Horizons"
 #disqusShortname = "XXX"
 googleAnalytics = "XXX"
 publishDir = "www"
 
 [Author]
-    name = "TheHorizons"
+    name = "The Horizons"
     profile = "https://google.com/+XXX"
 
 [Taxonomies]
